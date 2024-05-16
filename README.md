@@ -44,6 +44,10 @@ In this project, I worked to fix the start of a sales workflow. I needed to read
 In this project, I was challenged to read in, clean up, and visualize the real-world project repository of Scala. This repository spans data from a version control system (Git) as well as a project hosting site (GitHub). With almost 30,000 commits and a history spanning over ten years, Scala is a mature language. My task was to find out who has had the most influence on its development and who are the experts.
 The dataset included the project history of Scala retrieved from Git and GitHub as a set of CSV files.
 
+## Generating Keywords for Google Ads
+
+### Project Description
+In this project I created a prototype set of keywords for search campaigns for their sofas section.  
 
 ## Generating Keywords for Search Campaigns
 
